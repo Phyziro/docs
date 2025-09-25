@@ -1,5 +1,10 @@
 **✜  Electryt ✜**
 
+> Electryt ✜  Version 0.0.2 - [Zenfi-2025-001]
+> Last updated **09/24/2025**
+> Electryt Network State: Private-Beta
+> Phyziro, LLC &copy; 2025, All Rights Reserved.
+
 Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
