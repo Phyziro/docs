@@ -1,11 +1,11 @@
 **✜  Electryt ✜**
 
 >Electryt ✜  Version 0.0.2 - [Zenfi-2025-001]
-
+>
 > Last updated **09/24/2025**
-
+>
 > Electryt Network State: Private-Beta
-
+>
 > Phyziro, LLC &copy; 2025, All Rights Reserved.
 
 Use the starter kit to get your docs deployed and ready to customize.
